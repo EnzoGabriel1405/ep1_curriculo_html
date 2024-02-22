@@ -1,17 +1,53 @@
 <html>
 
-    <body>
+    <body>       
         <h1>Enzo Gabriel</h1>
-        
+        <hr>
         <h2>Educação</h2>
+
 
     <ul> 
         <h3><li>Formação</li></h3>
-<h4><li>Ensino Médio Completo</li></h4>
+        <h4><li>Ensino Médio Completo</li></h4>
+        <h4><li>Escola Municipal Jardim Naipi</li></h4>
+        <h4><li>Colégio cívico Militar Tarquínio Santos</li></h4>
+    </ul>
+
+    <ul>
+        <h3><li>Cursos</li></h3>
+        <h4><li>Robótica</li></h4>
+        <h4><li>Tecnologia da Informação</li></h4>
+        <h4><li>Programação Front-End</li></h4>
+    </ul>
+        
+        <h2>Experiência</h2>
+
+    <ul>
+        <h3><li>Empregos</li></h3>
+        <h4><li>Contador</li></h4>
+        <h4><li>Caixa de Supermercado</li></h4>
+    </ul>
+
+        <h2>Interesses</h2>
+
+    <ul>
+        <h3><li>Pessoais</li></h3>
+        <h4><li>Ter uma casa própria</li></h4>
+        <h4><li>Fazer viagens com a minha família</li></h4>
+        <h4><li>Trazer estabilidade financeira para a minha família</li></h4>
+    </ul>
+
+    <ul>
+        <h3><li>Profissionais</li></h3>
+        <h4><li>Trabalhar na área de tecnologia</li></h4>
+        <h4><li>Atuar em uma empresa que possa me oferecer um crescimento profissional</li></h4>
+    </ul>
+
+
+
 
 
 
 
     </body>
 </html>
-
