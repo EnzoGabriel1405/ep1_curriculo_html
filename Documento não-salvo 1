@@ -2,12 +2,14 @@
 
     <body>       
         <h1>Enzo Gabriel</h1>
+
         <hr>
         <h2>Educação</h2>
 
 
     <ul> 
         <h3><li>Formação</li></h3>
+<h4><li>Ensino Médio Completo</li></h4>
         <h4><li>Ensino Médio Completo</li></h4>
         <h4><li>Escola Municipal Jardim Naipi</li></h4>
         <h4><li>Colégio cívico Militar Tarquínio Santos</li></h4>
@@ -19,7 +21,7 @@
         <h4><li>Tecnologia da Informação</li></h4>
         <h4><li>Programação Front-End</li></h4>
     </ul>
-        
+
         <h2>Experiência</h2>
 
     <ul>
@@ -42,8 +44,8 @@
         <h4><li>Trabalhar na área de tecnologia</li></h4>
         <h4><li>Atuar em uma empresa que possa me oferecer um crescimento profissional</li></h4>
     </ul>
-
-
+        
+    <a href="https://www.google.com">lol</a>
 
 
 
@@ -51,3 +53,4 @@
 
     </body>
 </html>
+
